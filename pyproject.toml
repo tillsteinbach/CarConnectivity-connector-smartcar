@@ -15,7 +15,7 @@ authors = [
 ]
 dependencies = [
     "carconnectivity>=0.2",
-    "smartcar~=6.16.0",
+    "smartcar~=6.17.0",
 ]
 readme = "README.md"
 license = { file = "LICENSE" }
